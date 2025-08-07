@@ -1,0 +1,6 @@
+source airflow_venv/bin/activate
+airflow standalone
+# AIRFLOW UI
+ 	#'admin': BQrgcU25sMH2mQtC
+	# copy the EC2 public db to Http connection on browser followed by :8080
+	# change the IP public in the .conf file in .ssh folder manually to be able log in to the Ec2
