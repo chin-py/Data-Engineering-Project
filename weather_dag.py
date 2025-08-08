@@ -93,8 +93,8 @@ def catch_load_data(task_instance):
 
     #############
     fs = s3fs.S3FileSystem(
-        key='AKIAUYXOGVO7D65JFF4A',
-        secret='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'
+        key='<key>',
+        secret='<secret-key>'
     )
     # Upload using s3fs
     bucket_name = 'openweather-etl-extracted-data'  #S3 bucket name

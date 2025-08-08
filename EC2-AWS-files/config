@@ -1,0 +1,9 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host alias
+    HostName hostname
+    User user
+
+Host openweather_ec2
+    HostName 13.203.222.131
+    User ubuntu
+    IdentityFile C:\Users\VICTUS\.ssh\aws-pem-key\big_data_emr_keypair.pem
