@@ -1,0 +1,5 @@
+City,Country,Weather_main,Weather_subtype,Temperature,Feels_Like,Min_Temp,Max_Temp,Pressure,Humidity,Visibility,Wind_speed,cloudiness_percent,Rain_mm_hour,Snow_mm_hour,Time,Timezone_offset,Time_Recorded_local,Sunrise_local,Sunset_local
+Pune,IN,Clouds,overcast clouds,295.92,296.71,295.92,295.92,1006,94,4874,2.63,100,0.0,,1755273500,19800,2025-08-15T21:28:20+05:30,2025-08-15T06:16:21+05:30,2025-08-15T19:02:05+05:30
+Delhi,IN,Clouds,broken clouds,304.2,311.2,304.2,304.2,1002,75,10000,1.98,82,0.0,,1755273429,19800,2025-08-15T21:27:09+05:30,2025-08-15T05:50:21+05:30,2025-08-15T19:01:12+05:30
+Bengaluru,IN,Clouds,broken clouds,298.47,299.15,298.47,298.47,1010,80,10000,6.81,55,0.0,,1755273355,19800,2025-08-15T21:25:55+05:30,2025-08-15T06:07:28+05:30,2025-08-15T18:40:59+05:30
+Kolkata,IN,Clouds,overcast clouds,301.07,305.2,301.07,301.07,1003,81,10000,2.96,87,0.0,,1755273564,19800,2025-08-15T21:29:24+05:30,2025-08-15T05:13:31+05:30,2025-08-15T18:08:49+05:30
